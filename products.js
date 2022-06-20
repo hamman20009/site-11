@@ -2,7 +2,7 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/1.png',
+		image: 'img/1.png',
 		
 		title: 'مرهم سوبلكسيبل للقضاء على الام الروماتيزم و لارتروز و عرق النساء  '  ,
 		price1: 4500,
