@@ -2,7 +2,8 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/1.jpg',
+		
+		image: 'img/products/1.jpg',
 		
 		title: 'بخاخ منظف أصلي  '  ,
 		price1: 3500,
